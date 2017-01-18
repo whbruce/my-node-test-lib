@@ -1,0 +1,34 @@
+{
+  "name": "my-node-test-lib",
+  "description": "Simple Node.js lib for Yocto Project devtool testing",
+  "version": "0.1.0",
+  "homepage": "https://github.com/whbruce/my-node-test-lib",
+  "author": {
+    "name": "Henry Bruce",
+    "url": "https://github.com/whbruce"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whbruce/my-node-test-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whbruce/my-node-test-lib/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/whbruce/my-node-test-lib/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "lib",
+    "command line"
+  ],
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+  }
+}
