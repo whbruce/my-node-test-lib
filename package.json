@@ -26,6 +26,7 @@
     "command line"
   ],
   "preferGlobal": true,
+  "main": "index.js",
   "engines": {
     "node": ">=0.8"
   },
